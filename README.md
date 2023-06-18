@@ -1,2 +1,2 @@
 # AutoEncoders
-AutoEncoders in PyTorch
+AutoEncoders in PyTorch.
